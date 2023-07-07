@@ -1,9 +1,12 @@
+---
+---
 @import "{{ site.theme }}";
 
-header {
+.header {
   display: none;
 }
 
-footer {
+// Hide “This site is open source. Improve this page.”
+.footer {
   display: none;
 }
