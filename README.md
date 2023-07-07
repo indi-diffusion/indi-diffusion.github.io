@@ -1,8 +1,7 @@
+<p style="text-align: center;">
 
-# [Inversion by Direct Iteration: An Alternative to Denoising Diffusion for Image Restoration](https://openreview.net/forum?id=VmyFF5lL3F)
+## [Inversion by Direct Iteration: An Alternative to Denoising Diffusion for Image Restoration](https://openreview.net/forum?id=VmyFF5lL3F)
 
-<p align="center">
-  
 [**Mauricio Delbracio**](https://mdelbra.github.io/), [**Peyman Milanfar**](http://milanfar.org)
 
 **Google Research**
