@@ -8,6 +8,10 @@
 
 </div>
 
+### Test
+$\mu_x - C_t$
+Tes
+
 <p align="justify">
 Inversion by Direct Iteration (InDI) is a new formulation for supervised image restoration that avoids the so-called *regression to the mean* effect and produces more realistic and detailed images than existing regression-based methods. It does this by gradually improving image quality in small steps, similar to generative denoising diffusion models.
 
