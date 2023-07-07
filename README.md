@@ -17,8 +17,6 @@ While generative denoising diffusion models also work in small steps, our formul
 </p>
 
 
-Test $\mu_x -C_x$ this is a test.
-
 ### Citation
 
 ```
