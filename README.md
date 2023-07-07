@@ -1,6 +1,6 @@
 ## [Inversion by Direct Iteration: An Alternative to Denoising Diffusion for Image Restoration](https://openreview.net/forum?id=VmyFF5lL3F)
 
-Transactions on Machine Learning Research (TMLR)
+Transactions on Machine Learning Research (TMLR), 2023
 
 [**Mauricio Delbracio**](https://mdelbra.github.io/), [**Peyman Milanfar**](http://milanfar.org)
 
