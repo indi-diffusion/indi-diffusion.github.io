@@ -2,7 +2,7 @@
 
 <h2>Inversion by Direct Iteration: An Alternative to Denoising Diffusion for Image Restoration</h2>
 
-<b><a href="https://mdelbra.github.io/">Mauricio Delbracio</a>, <a href="http://milanfar.org">Peyman Milanfar</a></b></br>
+<b><a href="https://mdelbra.github.io/">Mauricio Delbracio</a>, <a href="http://milanfar.org">Peyman Milanfar</a></b><br>
 
 <b>Google Research</b>
 
