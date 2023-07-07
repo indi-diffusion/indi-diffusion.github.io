@@ -4,7 +4,7 @@
 
 <b><a href="https://mdelbra.github.io/">Mauricio Delbracio</a>, <a href="http://milanfar.org">Peyman Milanfar</a></b><br>
 
-<b>Google Research</b><br>
+<b>Google Research</b><br><br>
 
 </div>
 
