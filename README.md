@@ -1,3 +1,5 @@
+<p align="center">
+
 # [Inversion by Direct Iteration: An Alternative to Denoising Diffusion for Image Restoration](https://openreview.net/forum?id=VmyFF5lL3F)
 
 **Transactions on Machine Learning Research (TMLR), 2023**
@@ -5,6 +7,8 @@
 [**Mauricio Delbracio**](https://mdelbra.github.io/), [**Peyman Milanfar**](http://milanfar.org)
 
 **Google Research**
+
+</p>
 
 <p align="justify">
 Inversion by Direct Iteration (InDI) is a new formulation for supervised image restoration that avoids the so-called *regression to the mean* effect and produces more realistic and detailed images than existing regression-based methods. It does this by gradually improving image quality in small steps, similar to generative denoising diffusion models.
