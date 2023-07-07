@@ -1,14 +1,14 @@
 <div align="center">
-
 <h2>Inversion by Direct Iteration: An Alternative to Denoising Diffusion for Image Restoration</h2>
 
-<b><a href="https://mdelbra.github.io/">Mauricio Delbracio</a> and <a href="http://milanfar.org">Peyman Milanfar</a></b><br>
+<h3><a href="https://mdelbra.github.io/">Mauricio Delbracio</a> and <a href="http://milanfar.org">Peyman Milanfar</a></h3>
 
-<b>Google Research</b><br><br>
+<b>Google Research</b><br>
 
-
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2303.11435)
-
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://arxiv.org/abs/2303.11435">[arXiv]</a>
+<a href="https://openreview.net/forum?id=VmyFF5lL3F">[openreview]</a>
+<a href="https://docs.google.com/presentation/d/1i2h65EFn_pvAe3Jk1a7_bsx4z1enxmPcZtziE2ytOnc/edit?resourcekey=0-6onZxKGPM6obo1uVkH-pQQ#slide=id.g209adefda4f_2_4905">[slides]</a>
 
 </div>
 
