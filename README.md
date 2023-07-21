@@ -6,7 +6,8 @@
 
 <a href="https://arxiv.org/abs/2303.11435">[arXiv]</a>
 <a href="https://openreview.net/forum?id=VmyFF5lL3F">[openreview]</a>
-<a href="https://docs.google.com/presentation/d/1i2h65EFn_pvAe3Jk1a7_bsx4z1enxmPcZtziE2ytOnc/edit?resourcekey=0-6onZxKGPM6obo1uVkH-pQQ#slide=id.g209adefda4f_2_4905">[slides]</a><br><br>
+<a href="https://docs.google.com/presentation/d/1i2h65EFn_pvAe3Jk1a7_bsx4z1enxmPcZtziE2ytOnc/edit?resourcekey=0-6onZxKGPM6obo1uVkH-pQQ#slide=id.g209adefda4f_2_4905">[slides]</a>
+<a href="https://www.youtube.com/watch?v=_VfyR9ChOFk">[video]</a><br><br>
 
 </div>
 
